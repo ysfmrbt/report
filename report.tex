@@ -1,0 +1,79 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage{geometry}
+\usepackage{titlesec}
+\usepackage{needspace}
+\usepackage{microtype}
+\usepackage[none]{hyphenat}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{cite}
+\usepackage{lipsum}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{times}           % For Times New Roman text
+\usepackage{mathptmx}        % For Times New Roman math symbols
+\usepackage[T1]{fontenc}
+\usepackage{ragged2e}
+\usepackage{microtype}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{1ex}
+\justifying
+
+
+\microtypesetup{
+    stretch=10,
+    shrink=10,
+    step=1
+}
+\geometry{top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm, headheight=1cm, footskip=1cm}
+\setstretch{1.5}
+\titleformat{\chapter}[hang]{\normalfont\huge\bfseries}{\thechapter.}{12pt}{}
+\titleformat{\section}[hang]{\normalfont\Large\bfseries}{\thesection.}{6pt}{}
+\titleformat{\subsection}[hang]{\normalfont\large\bfseries}{\thesubsection.}{6pt}{}
+\titleformat{\subsubsection}[hang]{\normalfont\normalsize\bfseries}{\thesubsubsection.}{6pt}{}
+\titlespacing*{\chapter}{0pt}{24pt}{12pt}
+\titlespacing*{\section}{0pt}{24pt}{12pt}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+\hyphenpenalty=10000        % Discourage hyphenation
+\exhyphenpenalty=10000  
+\captionsetup{font=small,labelfont=bf,justification=centering}
+\setcounter{chapter}{0}  % Ensure chapters start at 1
+\setcounter{section}{0}
+\titleformat{\chapter}[hang]
+{\normalfont\huge\bfseries}
+{Chapter \thechapter:}{12pt}{\huge}
+\sloppy
+\widowpenalty=10000
+\clubpenalty=10000
+\raggedbottom
+\begin{document}
+\input{project/acknowledgments.tex}
+
+\chapter*{List of Abbreviations}
+\begin{description}[leftmargin=*, widest=DCCHTM]
+    \item[QA] Quality Assurance
+    \item[CI/CD] Continuous Integration/Continuous Deployment
+    \item[E2E] End-to-End
+    \item[UX/UI] User Experience/User Interface
+    \item[VAT] Value-Added Tax
+    \item[BVA] Boundary Value Analysis
+    \item[EP] Equivalence Partitioning
+\end{description}
+
+\tableofcontents
+\listoffigures
+
+
+\input{project/introduction.tex}
+\input{project/chapter1.tex}
+\input{project/chapter2.tex}
+\input{project/chapter3.tex}
+\input{project/chapter4.tex}
+\input{project/summary.tex}
+\bibliographystyle{plain}
+\bibliography{software-testing}
+\end{document}

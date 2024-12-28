@@ -1,0 +1,88 @@
+\contentsline {chapter}{Acknowledgments}{1}{chapter*.1}%
+\contentsline {chapter}{Introduction}{8}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}Company Overview}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}About SeekMake}{9}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Quality Assurance Framework}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Quality Assurance vs Testing}{10}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Quality Assurance}{10}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Software Testing}{10}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Differences and Complementarity}{11}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Scrum Methodology}{11}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Scrum Overview}{11}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Scrum Team}{11}{subsection.2.3.2}%
+\contentsline {subsubsection}{Scrum Master}{12}{subsubsection*.8}%
+\contentsline {subsubsection}{Product Owner}{12}{subsubsection*.9}%
+\contentsline {subsubsection}{Developers}{12}{subsubsection*.10}%
+\contentsline {subsection}{\numberline {2.3.3}Scrum Events}{12}{subsection.2.3.3}%
+\contentsline {subsubsection}{Sprints}{12}{subsubsection*.11}%
+\contentsline {subsubsection}{Sprint Planning}{13}{subsubsection*.12}%
+\contentsline {subsubsection}{Daily Scrum}{13}{subsubsection*.13}%
+\contentsline {section}{\numberline {2.4}Integration of DevOps}{13}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}DevOps Overview}{13}{subsection.2.4.1}%
+\contentsline {subsubsection}{Continuous Integration}{13}{subsubsection*.15}%
+\contentsline {subsubsection}{Continuous Delivery}{14}{subsubsection*.16}%
+\contentsline {subsubsection}{Continuous Deployment}{14}{subsubsection*.17}%
+\contentsline {section}{\numberline {2.5}Testing Strategy}{14}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Testing Objectives}{14}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Testing Scope}{14}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Testing Resources}{15}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Testing Types}{16}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Functional Testing}{16}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Non-Functional Testing}{16}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}Black-box Testing}{16}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Testing Tools}{17}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}GitHub, GitHub Actions and GitHub Projects}{17}{subsection.2.7.1}%
+\contentsline {subsubsection}{GitHub}{17}{subsubsection*.18}%
+\contentsline {subsubsection}{GitHub Actions}{18}{subsubsection*.20}%
+\contentsline {subsubsection}{GitHub Projects}{18}{subsubsection*.22}%
+\contentsline {subsection}{\numberline {2.7.2}Playwright}{19}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Microsoft Teams}{19}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}BrowserStack Live}{20}{subsection.2.7.4}%
+\contentsline {subsection}{\numberline {2.7.5}Lighthouse}{20}{subsection.2.7.5}%
+\contentsline {section}{\numberline {2.8}Testing Techniques}{20}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Black-box Testing Techniques}{21}{subsection.2.8.1}%
+\contentsline {subsubsection}{Equivalence Partitioning}{21}{subsubsection*.28}%
+\contentsline {subsubsection}{Boundary Value Analysis}{21}{subsubsection*.30}%
+\contentsline {subsection}{\numberline {2.8.2}Experience-based Testing Techniques}{22}{subsection.2.8.2}%
+\contentsline {subsubsection}{Exploratory Testing}{22}{subsubsection*.32}%
+\contentsline {subsubsection}{Checklist-based Testing}{22}{subsubsection*.33}%
+\contentsline {section}{\numberline {2.9}Summary}{23}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Exploratory Testing Insights}{24}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{24}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Background}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Testing Approach}{24}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Micro Frontends Architecture}{24}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Checklists}{25}{subsection.3.3.2}%
+\contentsline {subsubsection}{GitHub Issues}{25}{subsubsection*.36}%
+\contentsline {subsubsection}{Confirmation Testing}{26}{subsubsection*.38}%
+\contentsline {subsubsection}{Manual Regression Testing}{27}{subsubsection*.40}%
+\contentsline {section}{\numberline {3.4}Web Application Environment}{28}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Production}{28}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Staging}{29}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Development}{29}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Testing Results}{29}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Bugs and Issues}{29}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Summary}{31}{section.3.6}%
+\contentsline {chapter}{\numberline {4}End-to-End Testing and Automation}{33}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{33}{section.4.1}%
+\contentsline {section}{\numberline {4.2}E2E Testing Fundamentals}{33}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Goals}{33}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Benefits}{33}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}E2E Testing Strategy at SeekMake}{34}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Test Environment Setup}{34}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Test Planning Approach}{34}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Test Case Design Methodology}{34}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Implementation with Playwright}{34}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Framework Setup}{34}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Test Script Development}{35}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Test Execution}{35}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Results and Analysis}{35}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Test Coverage}{36}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Cross-Browser Testing}{36}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Performance Considerations}{36}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}CI/CD Integration}{37}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}GitHub Actions Workflow}{37}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Test Automation Pipeline}{37}{subsection.4.6.2}%
+\contentsline {section}{\numberline {4.7}Summary}{37}{section.4.7}%
+\contentsline {chapter}{Summary}{38}{chapter*.46}%

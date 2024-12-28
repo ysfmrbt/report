@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+
+\bibitem{atlassian}
+{Atlassian}.
+\newblock
+  \url{https://www.atlassian.com/continuous-delivery/continuous-integration},
+  2024.
+\newblock [Online; accessed 1 December 2024].
+
+\bibitem{istqbctfl4.0.1}
+International Software Testing~Qualifications Board.
+\newblock {\em ISTQB Certified Tester Foundation Level Syllabus v4.0}.
+\newblock International Software Testing Qualifications Board, 2024.
+
+\bibitem{browserstack}
+{BrowserStack}.
+\newblock \url{https://www.browserstack.com/}, 2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{circleci}
+{CircleCI}.
+\newblock \url{https://circleci.com/blog/what-is-end-to-end-testing/}, 2024.
+\newblock [Online; accessed 1 December 2024].
+
+\bibitem{github}
+{GitHub}.
+\newblock
+  \url{https://docs.github.com/en/get-started/start-your-journey/about-github-and-git},
+  2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{ghactions}
+{GitHub Actions}.
+\newblock
+  \url{https://docs.github.com/en/actions/about-github-actions/understanding-github-actions},
+  2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{ghprojects}
+{GitHub Projects}.
+\newblock
+  \url{https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects},
+  2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{microfrontends}
+{Micro Frontends - extending the microservice idea to frontend development}.
+\newblock \url{https://micro-frontends.org/}, 2024.
+\newblock [Online; accessed 1 December 2024].
+
+\bibitem{msteams}
+{Microsoft Teams}.
+\newblock
+  \url{https://www.microsoft.com/en-us/microsoft-teams/small-medium-business},
+  2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{pwdocs}
+{Installation | Playwright}.
+\newblock \url{https://playwright.dev/docs/intro}, 2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{pwhp}
+{Playwright | Homepage}.
+\newblock \url{https://playwright.dev/}, 2024.
+\newblock [Online; accessed 27 November 2024].
+
+\bibitem{scrum}
+{Scrum}.
+\newblock \url{https://www.scrum.org/learning-series/what-is-scrum/}, 2024.
+\newblock [Online; accessed 1 December 2024].
+
+\bibitem{seekmakefeatures}
+{SeekMake | Features}.
+\newblock \url{https://seekmake.com/features/}, 2024.
+\newblock [Online; accessed 27 November 2024].
+
+\end{thebibliography}
